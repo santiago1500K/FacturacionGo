@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ricardo Gómez",
+    "email": "ricardo@example.com",
+    "password": "pbkdf2-sha256$100000$R7iV5n8fJSyj0JlynpLzFg$gbjZfVqys4Rw6huK4cIXccJKMVzD+Q/+qHdgkJT3pHo",
+    "rol": "admin"
+  },
+  {
+    "id": 2,
+    "nombre": "María López",
+    "email": "maria@example.com",
+    "password": "pbkdf2-sha256$100000$SaPnOpMacMWzVkjDMS861Q$1lItrC7U6JV6MSCpPJdsn9AgbVrSYHhuJG8J2DVzaD0",
+    "rol": "cliente"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "factura_id": 5001,
+    "cliente": {
+      "id": 201,
+      "nombre": "Carlos Pérez",
+      "cc": "1234567",
+      "email": "carlos@example.com",
+      "direccion": "Calle 123 #45-67, Bogotá"
+    },
+    "usuario": {
+      "id": 1,
+      "nombre": "Ricardo Gómez",
+      "rol": "admin"
+    },
+    "productos": [
+      {
+        "id": 101,
+        "nombre": "Laptop Lenovo ThinkPad",
+        "cantidad": 1,
+        "precio_unitario": 3500000.00,
+        "subtotal": 3500000.00
+      },
+      {
+        "id": 102,
+        "nombre": "Mouse inalámbrico Logitech",
+        "cantidad": 2,
+        "precio_unitario": 12000.00,
+        "subtotal": 24000.00
+      }
+    ],
+    "total": 3524000.00,
+    "fecha": "2026-10-18"
+  },
+  {
+    "factura_id": 5002,
+    "cliente": {
+      "id": 202,
+      "nombre": "Ana Torres",
+      "cc": "56789101",
+      "email": "ana@example.com",
+      "direccion": "Carrera 10 #20-30, Medellín"
+    },
+    "usuario": {
+      "id": 2,
+      "nombre": "María López",
+      "rol": "cliente"
+    },
+    "productos": [
+      {
+        "id": 103,
+        "nombre": "Monitor Samsung 24''",
+        "cantidad": 2,
+        "precio_unitario": 80000.00,
+        "subtotal": 160000.00
+      },
+      {
+        "id": 102,
+        "nombre": "Mouse inalámbrico Logitech",
+        "cantidad": 1,
+        "precio_unitario": 12000.00,
+        "subtotal": 12000.00
+      }
+    ],
+    "total": 172000.00,
+    "fecha": "2026-10-20"
+  }
+]

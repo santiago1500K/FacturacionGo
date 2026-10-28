@@ -1,0 +1,16 @@
+[
+  {
+    "id": 201,
+    "nombre": "Carlos Pérez",
+    "cc": "1234567",
+    "email": "carlos@example.com",
+    "direccion": "Calle 123 #45-67, Bogotá"
+  },
+  {
+    "id": 202,
+    "nombre": "Ana Torres",
+    "cc": "56789101",
+    "email": "ana@example.com",
+    "direccion": "Carrera 10 #20-30, Medellín"
+  }
+]

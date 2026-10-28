@@ -1,0 +1,79 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2060 >>
+stream
+BT /F2 22.0 Tf 50.00 790.00 Td (FACTURA DE VENTA) Tj ET
+BT /F2 16.0 Tf 482.73 790.00 Td (No. 5004) Tj ET
+0.40 g
+BT /F1 10.0 Tf 50.00 770.00 Td (Sistema de Facturación Digital) Tj ET
+BT /F1 10.0 Tf 456.04 770.00 Td (Fecha: 2026-10-28) Tj ET
+0.00 g
+0.20 G 0.6 w 50.00 756.00 m 545.00 756.00 l S 0 G
+BT /F2 10.0 Tf 50.00 730.00 Td (CLIENTE) Tj ET
+BT /F2 10.0 Tf 330.00 730.00 Td (ATENDIDO POR) Tj ET
+BT /F1 10.0 Tf 50.00 714.00 Td (Carlos Pérez) Tj ET
+BT /F1 10.0 Tf 330.00 714.00 Td (Ricardo Gómez) Tj ET
+BT /F1 10.0 Tf 50.00 700.00 Td (C.C. 1234567) Tj ET
+BT /F1 10.0 Tf 330.00 700.00 Td (Rol: admin) Tj ET
+BT /F1 10.0 Tf 50.00 686.00 Td (carlos@example.com) Tj ET
+BT /F1 10.0 Tf 330.00 686.00 Td (ID usuario: 1) Tj ET
+BT /F1 10.0 Tf 50.00 672.00 Td (Calle 123 #45-67, Bogotá) Tj ET
+0.88 g 50.00 632.00 495.00 20.00 re f 0 g
+BT /F2 9.5 Tf 56.00 638.00 Td (Código) Tj ET
+BT /F2 9.5 Tf 110.00 638.00 Td (Producto) Tj ET
+BT /F2 9.5 Tf 331.23 638.00 Td (Cant.) Tj ET
+BT /F2 9.5 Tf 397.71 638.00 Td (Precio unit.) Tj ET
+BT /F2 9.5 Tf 499.65 638.00 Td (Subtotal) Tj ET
+BT /F1 9.5 Tf 56.00 616.00 Td (101) Tj ET
+BT /F1 9.5 Tf 110.00 616.00 Td (Laptop Lenovo ThinkPad) Tj ET
+BT /F1 9.5 Tf 349.72 616.00 Td (1) Tj ET
+BT /F1 9.5 Tf 386.62 616.00 Td ($ 3.500.000,00) Tj ET
+BT /F1 9.5 Tf 475.62 616.00 Td ($ 3.500.000,00) Tj ET
+0.85 G 0.6 w 50.00 610.00 m 545.00 610.00 l S 0 G
+BT /F1 9.5 Tf 56.00 596.00 Td (102) Tj ET
+BT /F1 9.5 Tf 110.00 596.00 Td (Mouse inalámbrico Logitech) Tj ET
+BT /F1 9.5 Tf 349.72 596.00 Td (1) Tj ET
+BT /F1 9.5 Tf 399.82 596.00 Td ($ 12.000,00) Tj ET
+BT /F1 9.5 Tf 488.82 596.00 Td ($ 12.000,00) Tj ET
+0.85 G 0.6 w 50.00 590.00 m 545.00 590.00 l S 0 G
+0.92 g 330.00 558.00 215.00 24.00 re f 0 g
+BT /F2 12.0 Tf 340.00 566.00 Td (TOTAL A PAGAR) Tj ET
+BT /F2 12.0 Tf 458.94 566.00 Td ($ 3.512.000,00) Tj ET
+0.75 G 0.6 w 50.00 55.00 m 545.00 55.00 l S 0 G
+0.40 g
+BT /F1 8.0 Tf 50.00 40.00 Td (Documento generado por el Sistema de Facturación Digital \(simulación académica\).) Tj ET
+BT /F1 8.0 Tf 462.71 40.00 Td (Factura 5004 - pág. 1) Tj ET
+0.00 g
+
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000218 00000 n 
+0000000320 00000 n 
+0000000456 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2568
+%%EOF

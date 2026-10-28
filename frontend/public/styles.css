@@ -1,0 +1,25 @@
+body { background: #f4f6fa; }
+
+.login-card { width: 100%; max-width: 420px; }
+
+.navbar .nav-link.active { font-weight: 600; text-decoration: underline; text-underline-offset: 6px; }
+
+#buscar-producto, #buscar-cliente { min-width: 220px; }
+
+/* ---------- Factura ---------- */
+.factura { background: #fff; color: #212529; font-size: 0.95rem; }
+.factura .factura-titulo { font-size: 1.6rem; font-weight: 700; letter-spacing: .5px; }
+.factura .factura-numero { font-size: 1.3rem; font-weight: 700; }
+.factura .etiqueta { font-size: .75rem; font-weight: 700; color: #6c757d; text-transform: uppercase; letter-spacing: .5px; }
+.factura table th { background: #e9ecef; }
+.factura .total { font-size: 1.2rem; font-weight: 700; }
+
+#zona-impresion { display: none; }
+
+@media print {
+  @page { size: A4; margin: 15mm; }
+  body { background: #fff; }
+  body > *:not(#zona-impresion) { display: none !important; }
+  #zona-impresion { display: block; }
+  .factura table th { background: #e9ecef !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}

@@ -1,0 +1,10 @@
+go 1.24
+
+use (
+	./auth
+	./clientes
+	./common
+	./facturas
+	./frontend
+	./productos
+)

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 101,
+    "nombre": "Laptop Lenovo ThinkPad",
+    "precio": 3500000.00,
+    "stock": 15
+  },
+  {
+    "id": 102,
+    "nombre": "Mouse inalámbrico Logitech",
+    "precio": 12000.00,
+    "stock": 50
+  },
+  {
+    "id": 103,
+    "nombre": "Monitor Samsung 24''",
+    "precio": 80000.00,
+    "stock": 20
+  }
+]
